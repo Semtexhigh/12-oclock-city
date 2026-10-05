@@ -1,0 +1,27 @@
+12 O'Clock City — Licence
+
+Copyright (c) 2026 the owner of 12 O'Clock City. All rights reserved.
+
+1. The game, its code, its compiled builds (WebAssembly, JavaScript, data files), its levels, artwork, sounds, texts
+   and server logic are proprietary. You may play the game only at its official website(s).
+
+2. You may NOT, without written permission from the owner:
+   a) copy, download for redistribution, mirror, re-host or embed the game or any of its files on another website,
+      app store or service;
+   b) decompile, disassemble, reverse-engineer, de-obfuscate or modify the game or its files, except where the law
+      expressly allows it despite this restriction;
+   c) access the game's servers or database other than through the official game client, including with bots,
+      scripts, modified clients or automated tools;
+   d) exploit bugs or glitches to gain money, items or other advantages, or sell or trade accounts, money or items
+      for real money.
+
+3. Third-party 3D models included in the game are used under their own Creative Commons licences and remain the
+   property of their authors (see CREDITS.md). This licence does not change those licences.
+
+4. Accounts that break these terms can be banned and their progress removed. Copies of the game found on other
+   sites will be reported for takedown (DMCA or local equivalent).
+
+5. The game is provided "as is", without warranty of any kind. To the extent allowed by law, the owner is not
+   liable for any damages arising from its use.
+
+Contact the owner through the official website for permissions.
